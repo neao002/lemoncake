@@ -1,0 +1,44 @@
+body {
+
+ background-color:beige
+}
+
+
+
+
+img {
+
+display: block;
+margin-right: auto;
+
+}
+
+.class {
+
+    background-color: red;
+    border-style: ridge;
+    
+}
+
+.first {
+
+    background-color: aqua;
+    border-style: ridge;
+
+}
+
+.first1 {
+
+    list-style-type: circle;
+    background-color: aqua;
+    border-style: ridge;
+}
+
+.second {
+
+    font-size: 30px;
+    font-style: normal;
+    font-variant: small-caps;
+    
+    
+}
